@@ -1,0 +1,2 @@
+# SDS2
+This is my examproject for the social data science 2 course on AAU. The goal of this project is to use state of the art ML tools to study and analyse a sociatal issue. I have choosen to use a dataset pulled from twitters formely open API selecting using a hashtag called dkpol. which is a prommently used tag in the danish political scene. 
